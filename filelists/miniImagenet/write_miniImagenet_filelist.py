@@ -6,8 +6,7 @@ import json
 import random
 import re
 
-cwd = os.getcwd() 
-data_path = join(cwd, 'preprocessed') # join(cwd,'ILSVRC2015/Data/CLS-LOC/train')
+data_path = join('./miniImageNet/all')#'ILSVRC2015/Data/CLS-LOC/train')
 savedir = './'
 dataset_list = ['base', 'val', 'novel']
 
