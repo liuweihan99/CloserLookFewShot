@@ -1,5 +1,5 @@
 #save_dir                    = './save_dir'
-save_dir                    = './gdrive/My Drive/'
+save_dir                    = '../gdrive/My Drive/'
 data_dir = {}
 data_dir['CUB']             = './filelists/CUB/' 
 data_dir['miniImagenet']    = './filelists/miniImagenet/' 
